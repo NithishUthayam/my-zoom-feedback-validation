@@ -46,7 +46,7 @@ Environment: Google Colab (GPU) for training
 Installation
 
 Clone the Repository:
-git clone https://github.com/your-username/my-zoom-feedback-validation.git
+git clone https://github.com/NithishUthayam/my-zoom-feedback-validation.git
 cd my-zoom-feedback-validation
 
 
