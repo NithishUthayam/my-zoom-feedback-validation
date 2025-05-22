@@ -40,7 +40,7 @@ EdTech platforms like Zoom collect user feedback with dropdown reasons, but misa
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/my-zoom-feedback-validation.git
+   git clone https://github.com/NithishUthayam/my-zoom-feedback-validation.git
    cd my-zoom-feedback-validation
    ```
 
